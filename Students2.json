@@ -1,0 +1,85 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Malcolm Barnes",
+      "grade": 9,
+      "email": "velit.aliquam@outlook.couk",
+      "address": "375-3721 Elementum_ Road",
+      "city": "Adana",
+      "country": "United Kingdom"
+    },
+    {
+      "id": 2,
+      "name": "Devin Crane",
+      "grade": 0,
+      "email": "eu.sem@outlook.edu",
+      "address": "217-4777 Lorem_ Rd.",
+      "city": "South Australia",
+      "country": "Ukraine"
+    },
+    {
+      "id": 3,
+      "name": "Isaiah Jacobson",
+      "grade": 10,
+      "email": "class.aptent@icloud.net",
+      "address": "339-2256 Sagittis Rd.",
+      "city": "Oslo",
+      "country": "Netherlands"
+    },
+    {
+      "id": 4,
+      "name": "Cedric Burris",
+      "grade": 2,
+      "email": "vitae.dolor.donec@aol.net",
+      "address": "P.O. Box 990_ 8379 Vel Avenue",
+      "city": "Hà Giang",
+      "country": "Brazil"
+    },
+    {
+      "id": 5,
+      "name": "Mark Delgado",
+      "grade": 2,
+      "email": "quis.massa.mauris@aol.com",
+      "address": "Ap 494-9054 Sed St.",
+      "city": "Sokoto",
+      "country": "Peru"
+    },
+    {
+      "id": 6,
+      "name": "Fritz Howe",
+      "grade": 8,
+      "email": "nunc.in@hotmail.couk",
+      "address": "480-6041 Nam Ave",
+      "city": "Sokoto",
+      "country": "Peru"
+    },
+    {
+      "id": 7,
+      "name": "Walker Tate",
+      "grade": 4,
+      "email": "arcu.et@outlook.couk",
+      "address": "2696 Vulputate Ave",
+      "city": "Puntarenas",
+      "country": "Spain"
+    },
+    {
+      "id": 8,
+      "name": "Wallace Fischer",
+      "grade": 6,
+      "email": "viverra.donec@hotmail.org",
+      "address": "634-7895 Viverra. Ave",
+      "city": "South Kalimantan",
+      "country": "Turkey"
+    },
+    {
+      "id": 9,
+      "name": "Wayne Frost",
+      "grade": 9,
+      "email": "felis.ullamcorper@hotmail.org",
+      "address": "Ap 873-7960 Aliquet St.",
+      "city": "Tennessee",
+      "country": "India"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "courses": [1, 3, 5]
+    },
+    {
+      "id": 2,
+      "courses": [2, 4, 6]
+    },
+    {
+      "id": 3,
+      "courses": [1, 2, 8]
+    },
+    {
+      "id": 4,
+      "courses": [4, 5, 9]
+    },
+    {
+      "id": 5,
+      "courses": [3, 6, 8]
+    },
+    {
+      "id": 6,
+      "courses": [2, 7, 10]
+    },
+    {
+      "id": 7,
+      "courses": [1, 4, 9]
+    },
+    {
+      "id": 8,
+      "courses": [3, 5, 10]
+    },
+    {
+      "id": 9,
+      "courses": [2, 6, 8]
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "students": [1, 3, 7],
+      "name": "Algorithms",
+      "instructor": "Scott Austin C.",
+      "duration": "8 weeks",
+      "location": "Hall1",
+      "time": "2H"
+    },
+    {
+      "id": 2,
+      "students": [2, 3, 8],
+      "name": "Number Theory",
+      "instructor": "Rojas Yoshio N.",
+      "duration": "10 weeks",
+      "location": "Hall4",
+      "time": "3H"
+    },
+    {
+      "id": 3,
+      "students": [1, 3, 8],
+      "name": "Computer Engineering",
+      "instructor": "Farley Jamal C.",
+      "duration": "12 weeks",
+      "location": "Hall2",
+      "time": "1.5H"
+    },
+    {
+      "id": 4,
+      "students": [2, 4, 7],
+      "name": "Computer Forensics",
+      "instructor": "Ferguson Nadine X.",
+      "duration": "8 weeks",
+      "location": "Hall3",
+      "time": "2H"
+    },
+    {
+      "id": 5,
+      "students": [1, 4, 8],
+      "name": "Computer Networking",
+      "instructor": "Webster Allistair M.",
+      "duration": "10 weeks",
+      "location": "Hall1",
+      "time": "3H"
+    },
+    {
+      "id": 6,
+      "students": [2, 5, 9],
+      "name": "Computer Programming",
+      "instructor": "Holland Lee I.",
+      "duration": "12 weeks",
+      "location": "Hall4",
+      "time": "1.5H"
+    },
+    {
+      "id": 7,
+      "students": [6],
+      "name": "Cyber Security",
+      "instructor": "Fry Alisa B.",
+      "duration": "8 weeks",
+      "location": "Hall2",
+      "time": "2H"
+    },
+    {
+      "id": 8,
+      "students": [3, 5, 9],
+      "name": "Database Administration",
+      "instructor": "Lancaster Cassidy F.",
+      "duration": "12 weeks",
+"location": "Lab1",
+"time": "3H"
+},
+{
+"id": 9,
+"students": [1, 4],
+"name": "Web Development",
+"instructor": "Silva Jolene M.",
+"duration": "10 weeks",
+"location": "Lab2",
+"time": "2.5H"
+}
+]
+}
